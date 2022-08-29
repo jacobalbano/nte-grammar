@@ -11,7 +11,8 @@ For experienced git users:
 - Open the folder as a vault in Obsidian
 
 For others:
-- Download the repository as a zip archive from the green "Code" button → Download Zip
+- Install git from the instructions [here](https://github.com/denolehov/obsidian-git/wiki/Installation#git-installation)
+- Download this repository as a zip archive from the green "Code" button → Download Zip
 - Unpack the archive into a directory of your choice
 	- (Windows): run `initialize_git.bat`
 	- (Mac/Linux): run `initialize_bat.sh`
