@@ -1,0 +1,1 @@
+- Get people reading as early as possible
