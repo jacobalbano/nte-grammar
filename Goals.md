@@ -1,1 +1,6 @@
+- Explain things in simple language whenever possible, keeping jargon and technical language to a minimum
+	- "As simple as possible, but no simpler"
+- Introduce precisely one new piece of information per lesson
+- Use native examples 100% of the time
+	- Prioritize examples from beginner-friendly material
 - Get people reading as early as possible
