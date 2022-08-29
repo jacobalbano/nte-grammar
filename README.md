@@ -10,8 +10,9 @@ For experienced git users:
 - Clone this repository into the folder of your choice
 - Open the folder as a vault in Obsidian
 
-For others:
+For beginners to git:
 - Install git from the instructions [here](https://github.com/gitobsidiantutorial/obsidian-git-tut-windows/blob/main/README.md#software-installation)
+	- Make sure to also follow the section about installing [Github Desktop](https://desktop.github.com/) and logging in
 - Download this repository as a zip archive from the green "Code" button → Download Zip
 - Unpack the archive into a directory of your choice
 	- (Windows): run `initialize_git.bat`
