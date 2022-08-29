@@ -1,0 +1,5 @@
+- Introduction
+- About kana
+- About kanji
+- Chapter 1: verbs
+- (etc)
