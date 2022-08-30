@@ -8,7 +8,8 @@ This is a step-by-step guide to setting up a way to contribute for people who ar
 	- Instal [Github Desktop](https://desktop.github.com). This isn't strictly necessary but is gonna help with later steps. Once you install it, open it so you can log in.
 - Install [Obsidian](https://obsidian.md) if you haven't already.
 	- You can technically edit these files with any text editor, but this repository is intended to be used with Obsidian.
-	- Obsidian is a pretty deep application with lots of cool features. If you're interested or confused you can try looking at the official [Obsidian documentation](https://help.obsidian.md/Obsidian/Index)
+	- Obsidian is a pretty deep application with lots of cool features. If you're interested or confused you can try looking at the official [Obsidian documentation](https://help.obsidian.md/Obsidian/Index).
+	- In particular, see [this page](https://help.obsidian.md/How+to/Format+your+notes) for how to format text in Obsidian.
 - Create a fork.
 	- A fork is a copy of this repository, but associated with your account, which means you can do anything you want to it.
 	- On the github page, if you're logged in, there should be a button up near the top. ![](attachments/git_instructions_a.png)
