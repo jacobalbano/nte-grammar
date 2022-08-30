@@ -33,6 +33,7 @@ Your local changes aren't automatically uploaded either to your local fork or su
 
 After you have some changes, open the command palette (pressing **Ctrl-P**, or **Cmd-P** on Mac and type "source control view," then press Enter. A panel like this should open to the right. 
   ![](attachments/git_instructions_e.png)
+
 The buttons on the source control panel are the main controls for interacting with the repositiory. They include some git lingo, so here's a run-down of the lingo and what some buttons do.
 - **Staged Changes**: These are the files you want to include in the sync.
 - **Changes**: The files which you've changed which have not been staged yet.
