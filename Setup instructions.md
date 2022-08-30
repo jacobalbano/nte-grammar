@@ -11,17 +11,17 @@ This is a step-by-step guide to setting up a way to contribute for people who ar
 	- Obsidian is a pretty deep application with lots of cool features. If you're interested or confused you can try looking at the official [Obsidian documentation](https://help.obsidian.md/Obsidian/Index)
 - Create a fork.
 	- A fork is a copy of this repository, but associated with your account, which means you can do anything you want to it.
-	- On the github page, if you're logged in, there should be a button up near the top. ![[attachments/git_instructions_a.png]]
+	- On the github page, if you're logged in, there should be a button up near the top. ![](attachments/git_instructions_a.png)
 	- This button will take you to a new page, you can just click on the green "Create fork" button at the end.
 - Now we download the repository. There are other ways of doing it but here's what I recommend for simplicity.
 	- On Github Desktop, you should be able to see your fork on a list of your repositories. 
-	  ![[attachments/git_instructions_b.png]]
+	  ![](attachments/git_instructions_b.png)
 	- Click the "Clone {your username}/nte-grammar" button down below.
 	- This opens up a dialog where you can change a few things, such as where the folder will go, if you prefer. Then click the blue button to move on.
 	- Next you should see this pop up. Make sure to keep "contribute to the parent project" before clicking Continue.
-	  ![[attachments/git_instructions_c.png]]
+	  ![](attachments/git_instructions_c.png)
 - Open up Obsidian.
-	- Click "Open" and choose the same folder you set up with Github Desktop. ![[attachments/git_instructions_d.png]]
+	- Click "Open" and choose the same folder you set up with Github Desktop. ![](attachments/git_instructions_d.png)
 	- The first time you open the vault Obsidian will ask you to trust plugins. This is not mandatory but will help automate some of the tasks involved in syncing. 
 		- Currently we have these plugins associated with the vault:
 			- [Obsidian-git](https://github.com/denolehov/obsidian-git)
@@ -32,7 +32,7 @@ Now you have a full local copy and can make changes as you please.
 Your local changes aren't automatically uploaded either to your local fork or submitted to the parent repository. Here's how to do that using the installed obsidian-git plugin. Certain parts here can be automated through plugin settings. Note also that most of the stuff we're using obsidian-git for here can be done through Github Desktop, if you find that interface more approachable.
 
 After you have some changes, open the command palette (pressing **Ctrl-P**, or **Cmd-P** on Mac and type "source control view," then press Enter. A panel like this should open to the right. 
-  ![[attachments/git_instructions_e.png]]
+  ![](attachments/git_instructions_e.png)
 The buttons on the source control panel are the main controls for interacting with the repositiory. They include some git lingo, so here's a run-down of the lingo and what some buttons do.
 - **Staged Changes**: These are the files you want to include in the sync.
 - **Changes**: The files which you've changed which have not been staged yet.
@@ -58,13 +58,12 @@ Now you've uploaded changes, but specifically _to your fork._ They haven't yet b
 To open a pull request after you've pushed changes to your fork these are the two easiest ways:
 - On Gihub Desktop, press **Ctrl-R/Cmd-R** (or, click on Branch > Create Pull Request on the menu.) 
 	- This should open your browser with a page showing you all the changes you made. Just click on the green "Create pull request." button to go to the actual pull request creation interface.
-- On the page for your fork on github, there's a little indication of how different your fork is from the parent repo.![[attachments/git_instructions_f.png]]
+- On the page for your fork on github, there's a little indication of how different your fork is from the parent repo.![](attachments/git_instructions_f.png)
 	- Here you can click on "Contribute" and then "Open pull request."
 
 Once you do either of the above, you should be at a page like this:
-![[attachments/git_instructions_g.png]]
-
-Here you can change the title and write a description. Giving your pull request a good title and description can help everyone understand what it is you're trying to do, and make better comments on the changes. For example:![[attachments/git_instructions_h.png]]
+![](attachments/git_instructions_g.png)
+Here you can change the title and write a description. Giving your pull request a good title and description can help everyone understand what it is you're trying to do, and make better comments on the changes. For example: ![](attachments/git_instructions_h.png)
 
 Once you're done, click "Create pull request." (You can also click the little arrow to the right and choose to make a _draft_ pull request, if you want to signal that you aren't done but just want people to be able to see what you're working on).
 
