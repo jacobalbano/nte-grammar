@@ -74,3 +74,11 @@ Now your changes are fully submitted. People can see what you've made and then m
 If there are suggestions (or if you just forgot something), you can still make more changes with the same process as before: make the change, stage it, commit it, then push. This will automatically reflect in your pull request.
 
 There are more advanced things you can do if you want to if you learn more about git works. For example, you can even make two completely pull requests which can be reviewed and edited separately. For that we would use something called _branches,_ but it's a bit out of the scope of this guide. The above submission process should be good enough for most situations.
+
+### Syncing changes
+When something changes in the parent repo (sometimes called upstream), your fork needs to pull those changes before they are reflected on your local files. This is a bit clunkier than we'd like at the moment but the easiest way is to go to your fork's page on github.
+
+![](git_instructions_i.png)
+This UI element we saw before can also tell us how behind our fork is compared to upstream. From here you can just click "Sync fork," then "Update branch" to get everything synced up.
+
+Once this is done, back in obsidian when you press the "Pull" button, the changes will be reflected on your local files.
