@@ -11,4 +11,4 @@ For experienced git users:
 - Open the folder as a vault in Obsidian
 
 For beginners to git:
-- See [detailed setup instructions](Setup)
+- See [detailed setup instructions](Setup.md) 
