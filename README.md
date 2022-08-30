@@ -12,7 +12,8 @@ For experienced git users:
 
 For beginners to git:
 - Install git from the instructions [here](https://github.com/gitobsidiantutorial/obsidian-git-tut-windows/blob/main/README.md)
-	- Skip the step where you create a new repository; when prompted to "clone" in the github desktop app, use this repository's URL instead.
+	- Skip the step where you create a new repository
+	- Stop after completing the "clone" step
 - Open the folder as a vault in Obsidian
 
 The first time you open the vault, you'll be prompted to trust plugins. The only plugins currently in use are:

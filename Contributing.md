@@ -6,4 +6,3 @@ Use furigana syntax on kanji:
 
 > Note: furigana doesn't display in the live editor; use the split editor view to see it in action
 
-
