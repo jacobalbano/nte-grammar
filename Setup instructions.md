@@ -38,6 +38,7 @@ The buttons on the source control panel are the main controls for interacting wi
 - **Changes**: The files which you've changed which have not been staged yet.
 	- Each file has a **+** button to the right of its name which you can click to stage that specific file. This means you have control over which files you want to submit and which you're still working on.
 - **Commit** (the ✔ button up top): This creates a "snapshot" of all your staged changes so they can be uploaded.
+	- The textbox (which by default says `sync: {{date}}`) is the _commit message_ (basically what you call the commit). You can change it to a short description of the change if you'd like.
 - **Stage All** (the circled **+** up top): This stages everything. So all files in "changes" move to "staged changes".
 - **Unstaged changes** (the circled **-** up top): A way to say "oh no go back" and move everything back down to "Changes." This is useful if you accidentally stage everything but would rather do just one or two files instead.
 - **Push** (the ↑ button up top): Uploads _committed_ changes to your fork. This means that things in "staged changes" and "comitted changes" don't really get submitted, you need to stage _then_ commit.
@@ -49,3 +50,26 @@ So for now let's:
 - Stage all
 - Commit
 - Push
+
+When you click push, the little sync icon to the right should spin for a bit while it's uploading. If everything is okay it'll just stop spinning with no errors popping up.
+
+Now you've uploaded changes, but specifically _to your fork._ They haven't yet been submitted to the parent repository. We need to open what's called a **pull request**. This is like asking "hey can you take a look at my changes, and if they're good, add them to the main repo?"
+
+To open a pull request after you've pushed changes to your fork these are the two easiest ways:
+- On Gihub Desktop, press **Ctrl-R/Cmd-R** (or, click on Branch > Create Pull Request on the menu.) 
+	- This should open your browser with a page showing you all the changes you made. Just click on the green "Create pull request." button to go to the actual pull request creation interface.
+- On the page for your fork on github, there's a little indication of how different your fork is from the parent repo.![[git_instructions_f.png]]
+	- Here you can click on "Contribute" and then "Open pull request."
+
+Once you do either of the above, you should be at a page like this:
+![[git_instructions_g.png]]
+
+Here you can change the title and write a description. Giving your pull request a good title and description can help everyone understand what it is you're trying to do, and make better comments on the changes. For example:![[git_instructions_h.png]]
+
+Once you're done, click "Create pull request." (You can also click the little arrow to the right and choose to make a _draft_ pull request, if you want to signal that you aren't done but just want people to be able to see what you're working on).
+
+Now your changes are fully submitted. People can see what you've made and then make comments and suggestions on your changes. If everything is ok, your pull request can be accepted and then merged with the parent repo.
+
+If there are suggestions (or if you just forgot something), you can still make more changes with the same process as before: make the change, stage it, commit it, then push. This will automatically reflect in your pull request.
+
+There are more advanced things you can do if you want to if you learn more about git works. For example, you can even make two completely pull requests which can be reviewed and edited separately. For that we would use something called _branches,_ but it's a bit out of the scope of this guide. The above submission process should be good enough for most situations.
