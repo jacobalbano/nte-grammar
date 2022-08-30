@@ -3,5 +3,6 @@
   "enabledCssSnippets": [
     "Japanese_Alt"
   ],
-  "cssTheme": ""
+  "cssTheme": "",
+  "translucency": false
 }
