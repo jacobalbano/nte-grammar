@@ -11,12 +11,8 @@ For experienced git users:
 - Open the folder as a vault in Obsidian
 
 For beginners to git:
-- Install git from the instructions [here](https://github.com/gitobsidiantutorial/obsidian-git-tut-windows/blob/main/README.md#software-installation)
-	- Make sure to also follow the section about installing [Github Desktop](https://desktop.github.com/) and logging in
-- Download this repository as a zip archive from the green "Code" button → Download Zip
-- Unpack the archive into a directory of your choice
-	- (Windows): run `initialize_git.bat`
-	- (Mac/Linux): run `initialize_bat.sh`
+- Install git from the instructions [here](https://github.com/gitobsidiantutorial/obsidian-git-tut-windows/blob/main/README.md)
+	- Skip the step where you create a new repository; when prompted to "clone" in the github desktop app, use this repository's URL instead.
 - Open the folder as a vault in Obsidian
 
 The first time you open the vault, you'll be prompted to trust plugins. The only plugins currently in use are:
