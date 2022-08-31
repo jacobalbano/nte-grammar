@@ -47,3 +47,7 @@ The goal of the guide is for people to *stop using the guide.* Long-winded expla
 Always be asking yourself "will *not* knowing this information get in the way of someone starting to read beginner material?"
 
 If the answer is "no", reconsider including it.
+
+
+
+#meta 

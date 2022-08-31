@@ -8,7 +8,7 @@
 	- [[About kanji]]
 	- [[Fundamental terminology]]
 - [[Chapter 1]]
-	-[[ Standalone verbs]]
+	- [[Standalone verbs]]
 	- [[Object particle を]]
 	- [[Subject particle が]]
 	- [[Standalone adjectives]]
@@ -27,17 +27,53 @@
 # Unsorted
 - から (start point)
 - から (because)
-- のだ 
+- のだ
+- ので
 - だ
+- Adjectival nouns
 - Politeness fundamentals
 - ～ます 
 - です
 - 内外
+- で (method)
+- で (place)
 - に (position)
 - に (origin)
-- に (adverbs)
-- に (addition) *`not confirmed`*
+- に (addition) #todo: keep or cut?
+- と (quoting)
+- と (and)
+- と (describing natural outcomes)
+- たら
+- ～ば
+- なら
+- の (posessive)
+- こと (the experience of...)
+- の (the act of...)
+- Transitivity
+- て (sequence of events)
+- て form of godan verbs #todo: split up?
+- て form of irregular verbs
 - ～に行く・～に来る
 - になる・にする
-- Past tense
-- Non-past tense
+- What "non-past" means
+- ね (sentence ender)
+- よ (sentence ender)
+- は (limiting function)
+- も (expanding function)
+- Compound verbs
+- Up/down (hierarchy, 先輩後輩)
+- Polite/casual matrix
+- たい (what you want to do)
+- ほしい (things you want)
+- てほしい (things you want done)
+- のに (despite) #todo: better gloss?
+- けど
+- が (but)
+- Passive
+- Causative
+- Passive+causative
+- Past tense adjectives
+- Past tense verbs
+- Negative adjectives
+- Negative verbs
+- Turning adjectives into adverbs

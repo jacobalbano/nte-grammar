@@ -75,3 +75,5 @@ And again here, the object is Literature since that's the thing _being studied_.
 
 __Clause__
 The last of the main parts to cover here is a clause.  We've been saying "sentence" so far and I think we all have a general understanding of what a sentence is.  A clause gets a bit more technical as it can overlap with our general idea of a sentence sometimes.  
+
+#todo: consider introducing each term of speech in its own article, then using the embed feature to embed them all together in a reference document

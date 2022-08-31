@@ -82,3 +82,5 @@ When something changes in the parent repo (sometimes called upstream), your fork
 This UI element we saw before can also tell us how behind our fork is compared to upstream. From here you can just click "Sync fork," then "Update branch" to get everything synced up.
 
 Once this is done, back in obsidian when you press the "Pull" button, the changes will be reflected on your local files.
+
+#meta 
