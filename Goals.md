@@ -21,7 +21,7 @@ For the purpose of this guide, a "mechanic" can refer to a variety of things:
 	- ～たことがある
 	- わけにはいけない
 
-"Progressive" in this sense means that new mechanics are only taught once all of their dependent mechanics have already been taught.
+"Incremental" in this sense means that new mechanics are only taught once all of their dependent mechanics have already been taught.
 - We don't teach you about には until you know about both に and は.
 - We don't teach you about に until you know what verbs are.
 
