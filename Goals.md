@@ -48,6 +48,7 @@ Always be asking yourself "will *not* knowing this information get in the way of
 
 If the answer is "no", reconsider including it.
 
-
+#### Keep it PG
+Not everyone learning Japanese is in it for the fanservice. Example sentences should be taken from everyday situations.
 
 #meta 

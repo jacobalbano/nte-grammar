@@ -4,9 +4,10 @@ Rule #2: Contributions should align with the project's [[Goals|goals]]
 Use furigana syntax on kanji:
 `{食|た}べる`  → {食|た}べる
 
-
 > [!note] 
 > Furigana doesn't display in the live editor; use the split editor view to see it in action
+
+
 
 # Callouts
 Use callout blocks to color-code certain types of information. Include a custom title for types other than "warning".

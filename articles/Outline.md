@@ -9,6 +9,7 @@
 	- [[Fundamental terminology]]
 - [[Chapter 1]]
 	- [[Standalone verbs]]
+	- [[Noun basics]]
 	- [[Object particle を]]
 	- [[Subject particle が]]
 	- [[Standalone adjectives]]
@@ -39,9 +40,10 @@
 - で (place)
 - に (position)
 - に (origin)
-- に (addition) #todo: keep or cut?
+- に (addition) #todo: cut?
+- へ (direction) #todo: cut?
 - と (quoting)
-- と (and)
+- と (with)
 - と (describing natural outcomes)
 - たら
 - ～ば
@@ -76,4 +78,17 @@
 - Past tense verbs
 - Negative adjectives
 - Negative verbs
+- ないで
+- Making requests
+- Giving orders
+- Making comparisons (より・ほう)
 - Turning adjectives into adverbs
+- これ・それ・あれ・どれ
+- この・その・あの・どの
+- ここ・そこ・あそこ・どこ
+- こう・そう・ああ・どう
+- か (questions)
+- か (or)
+- か (embedded question)
+- Introduction to counters
+- Question words
