@@ -23,9 +23,11 @@ This is a step-by-step guide to setting up a way to contribute for people who ar
 	  ![](attachments/git_instructions_c.png)
 - Open up Obsidian.
 	- Click "Open" and choose the same folder you set up with Github Desktop. ![](attachments/git_instructions_d.png)
-	- The first time you open the vault Obsidian will ask you to trust plugins. This is not mandatory but will help automate some of the tasks involved in syncing. 
+	- The first time you open the vault Obsidian will ask you to trust plugins. This is not mandatory but will help automate some of the tasks involved in syncing, as well as improving the editing experience. 
 		- Currently we have these plugins associated with the vault:
-			- [Obsidian-git](https://github.com/denolehov/obsidian-git)
+			- [Git integration](https://github.com/denolehov/obsidian-git)
+			- [Furigana support](https://github.com/steven-kraft/obsidian-markdown-furigana/)
+			- [Persistent cursor/scroll position](https://github.com/dy-sh/obsidian-remember-cursor-position)
 
 Now you have a full local copy and can make changes as you please. 
 

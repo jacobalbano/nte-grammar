@@ -1,13 +1,15 @@
 ### `Structure, order, contents of this outline are all up for discussion and subject to change!`
 
 # Main guide
-- Introduction
+- [[Introduction]]
 	- [[About this guide]]
 	- [[The power of reading]]
+	- [[About Japanese]]
 	- [[About kana]]
 	- [[About kanji]]
 	- [[Fundamental terminology]]
 - [[Chapter 1]]
+	- [[The two types of sentences]]
 	- [[Standalone verbs]]
 	- [[Noun basics]]
 	- [[Object particle を]]
@@ -15,80 +17,85 @@
 	- [[Standalone adjectives]]
 	- [[Adjective phrases]]
 	- [[Describing nouns with adjectives]]
-- Chapter 2
-	- Verb groups
-	- Negative adjectives
+- [[Chapter 2]]
+	- [[Relative clauses]]
 	- (etc)
 
+# Reference
+- [[Unusual usages of polite forms]]
+- [[Rethinking prepositions]]
+- [[Approaching complicated sentences]]
+
 # Resources
-- Beginner reading
-- Effective jisho usage
-- How to google in japanese
+- [[Beginner reading recommendations]]
+- [[Effective jisho usage]]
+- [[How to google in japanese]]
 
 # Unsorted
-- から (start point)
-- から (because)
-- のだ
-- ので
-- だ
-- Adjectival nouns
-- Politeness fundamentals
-- ～ます 
-- です
-- 内外
-- で (method)
-- で (place)
-- に (position)
-- に (origin)
-- に (addition) #todo: cut?
-- へ (direction) #todo: cut?
-- と (quoting)
-- と (with)
-- と (describing natural outcomes)
-- たら
-- ～ば
-- なら
-- の (posessive)
-- こと (the experience of...)
-- の (the act of...)
-- Transitivity
-- て (sequence of events)
-- て form of godan verbs #todo: split up?
-- て form of irregular verbs
-- ～に行く・～に来る
-- になる・にする
-- What "non-past" means
-- ね (sentence ender)
-- よ (sentence ender)
-- は (limiting function)
-- も (expanding function)
-- Compound verbs
-- Up/down (hierarchy, 先輩後輩)
-- Polite/casual matrix
-- たい (what you want to do)
-- ほしい (things you want)
-- てほしい (things you want done)
-- のに (despite) #todo: better gloss?
-- けど
-- が (but)
-- Passive
-- Causative
-- Passive+causative
-- Past tense adjectives
-- Past tense verbs
-- Negative adjectives
-- Negative verbs
-- ないで
-- Making requests
-- Giving orders
-- Making comparisons (より・ほう)
-- Turning adjectives into adverbs
-- これ・それ・あれ・どれ
-- この・その・あの・どの
-- ここ・そこ・あそこ・どこ
-- こう・そう・ああ・どう
-- か (questions)
-- か (or)
-- か (embedded question)
-- Introduction to counters
-- Question words
+- [[から (start point)]]
+- [[から (because)]]
+- [[のだ]]
+- [[ので]]
+- [[だ]]
+- [[Adjectival nouns]]
+- [[Politeness fundamentals]]
+- [[～ます]] 
+- [[です]]
+- [[内外]]
+- [[で (method)]]
+- [[で (place)]]
+- [[に (position)]]
+- [[に (origin)]]
+- [[に (addition)]] #todo: cut?
+- [[へ (direction)]] #todo: cut?
+- [[と (quoting)]]
+- [[と (with)]]
+- [[と (describing natural outcomes)]]
+- [[たら]]
+- [[～ば]]
+- [[なら]]
+- [[の (posessive)]]
+- [[こと (the experience of...)]]
+- [[の (the act of...)]]
+- [[Transitivity]]
+- [[て (sequence of events)]]
+- [[て form of godan verbs]] #todo: split up?
+- [[て form of irregular verbs]]
+- [[～に行く・～に来る]]
+- [[になる・にする]]
+- [[Conversation rhythm]]
+- [[は (limiting function)]]
+- [[も (expanding function)]]
+- [[Compound verbs]]
+- [[hierarchy, 先輩後輩]]
+- [[Combining speech registers]]
+- [[たい (what you want to do)]]
+- [[ほしい (things you want)]]
+- [[てほしい (things you want done)]]
+- [[のに (despite)]] #todo better gloss?
+- [[けど]]
+- [[が (but)]]
+- [[Passive]]
+- [[Causative]]
+- [[Passive+causative]]
+- [[Past tense adjectives]]
+- [[Past tense verbs]]
+- [[Negative adjectives]]
+- [[Negative verbs]]
+- [[ないで]]
+- [[Making requests]]
+- [[Giving orders]]
+- [[Making comparisons (より)]]
+- [[Picking out one option (ほう)]]
+- [[Turning adjectives into adverbs]]
+- [[これ・それ・あれ・どれ]]
+- [[この・その・あの・どの]]
+- [[ここ・そこ・あそこ・どこ]]
+- [[こう・そう・ああ・どう]]
+- [[か (questions)]]
+- [[か (or)]]
+- [[か (embedded question)]]
+- [[Introduction to counters]]
+- [[Question words]]
+- [[Groups (たち・ら)]]
+- [[わけ]]

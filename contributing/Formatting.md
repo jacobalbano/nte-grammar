@@ -1,19 +1,21 @@
-Rule #1: Discuss with the group
-Rule #2: Contributions should align with the project's [[Goals|goals]]
-
-Use furigana syntax on kanji:
+#### Furigana
+Use furigana syntax on all kanji:
 `{食|た}べる`  → {食|た}べる
 
 > [!note] 
-> Furigana doesn't display in the live editor; use the split editor view to see it in action
+> Not all formatting will display correctly in the editing view. You can either switch back and forth between modes, or open a new pane to see them side-by-side.
+> 
+> ![[editor_mode.png]]
+> 
 
-
-
-# Callouts
+#### Callouts
 Use callout blocks to color-code certain types of information. Include a custom title for types other than "warning".
 
->[!question]- Answer
->Use *collapsed* "question" callout blocks below example sentences to show the answer. Blocks can be collapsed by adding the minus sign (-) after the callout tag.
+>[!question]- (Example sentence goes here)
+>Use *collapsed* "question" callout blocks for example sentences.
+>The example sentence should be in the title, and the translation should be hidden in the collapsed body.
+>
+Blocks can be collapsed by adding the minus sign (-) after the callout tag.
 
 > [!warning]
 > Use "warning" callout blocks to draw attention to things which may cause confusion.

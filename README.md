@@ -3,7 +3,7 @@ An incremental grammar guide for Japanese, collaboratively developed by the æ—¥æ
 
 An [Obsidian](https://obsidian.md/) vault.
 
-Outline and guidelines coming soon.
+[[Outline]] (wip)
 
 # Setup
 For experienced git users: 
