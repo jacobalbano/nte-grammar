@@ -46,20 +46,21 @@
 - [[で (place)]]
 - [[に (position)]]
 - [[に (origin)]]
-- [[に (addition)]] #todo: cut?
-- [[へ (direction)]] #todo: cut?
+- [[に (addition)]] 
+- [[へ (direction)]] 
 - [[と (quoting)]]
 - [[と (with)]]
 - [[と (describing natural outcomes)]]
 - [[たら]]
 - [[～ば]]
 - [[なら]]
+- [[But (が・けど・でも)]]
 - [[の (posessive)]]
 - [[こと (the experience of...)]]
 - [[の (the act of...)]]
 - [[Transitivity]]
 - [[て (sequence of events)]]
-- [[て form of godan verbs]] #todo: split up?
+- [[て form of godan verbs]] 
 - [[て form of irregular verbs]]
 - [[～に行く・～に来る]]
 - [[になる・にする]]
@@ -72,7 +73,7 @@
 - [[たい (what you want to do)]]
 - [[ほしい (things you want)]]
 - [[てほしい (things you want done)]]
-- [[のに (despite)]] #todo better gloss?
+- [[のに (despite)]] 
 - [[けど]]
 - [[が (but)]]
 - [[Passive]]
