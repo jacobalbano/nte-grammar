@@ -18,6 +18,7 @@ Let's look at some examples: -
 
 <details>
 	<summary>{街|まち}がしずかだ。</summary>
+	Town is quiet.
 </details>
 
 (note: i know we said to use actual examples but idk how to search through my stuff for things this basic so just went with some very simple things in addition to the cat one - k)
