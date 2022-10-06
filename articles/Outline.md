@@ -15,7 +15,7 @@
 	- [[Object particle を]]
 	- [[Subject particle が]]
 	- [[Standalone adjectives]]
-	- [[Adjective phrases]]
+	- [[Adjective Phrases]]
 	- [[Describing nouns with adjectives]]
 - [[Chapter 2]]
 	- [[Relative clauses]]
