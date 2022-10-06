@@ -3,7 +3,7 @@
 # Main guide
 - [[Introduction]]
 	- [[About this guide]]
-	- [[The power of reading]]
+	- [[The Power of Reading]]
 	- [[About Japanese]]
 	- [[About kana]]
 	- [[About kanji]]
