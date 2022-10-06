@@ -6,7 +6,7 @@
 	- [[The Power of Reading]]
 	- [[About Japanese]]
 	- [[About kana]]
-	- [[About kanji]]
+	- [[About Kanji]]
 	- [[Fundamental terminology]]
 - [[Chapter 1]]
 	- [[The two types of sentences]]
