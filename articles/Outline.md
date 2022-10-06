@@ -2,10 +2,10 @@
 
 # Main guide
 - [[Introduction]]
-	- [[About this guide]]
+	- [[About This Guide]]
 	- [[The Power of Reading]]
 	- [[About Japanese]]
-	- [[About kana]]
+	- [[About Kana]]
 	- [[About Kanji]]
 	- [[Fundamental terminology]]
 - [[Chapter 1]]
