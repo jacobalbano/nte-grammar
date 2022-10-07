@@ -2,11 +2,11 @@
 
 # Main guide
 - [[Introduction]]
-	- [[About this guide]]
+	- [[About This Guide]]
 	- [[The Power of Reading]]
 	- [[About Japanese]]
-	- [[About kana]]
-	- [[About kanji]]
+	- [[About Kana]]
+	- [[About Kanji]]
 	- [[Fundamental terminology]]
 - [[Chapter 1]]
 	- [[The two types of sentences]]
@@ -15,7 +15,7 @@
 	- [[Object particle を]]
 	- [[Subject particle が]]
 	- [[Standalone adjectives]]
-	- [[Adjective phrases]]
+	- [[Adjective Phrases]]
 	- [[Describing nouns with adjectives]]
 - [[Chapter 2]]
 	- [[Relative clauses]]
