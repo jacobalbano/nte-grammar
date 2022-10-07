@@ -1,8 +1,7 @@
 ### `Structure, order, contents of this outline are all up for discussion and subject to change!`
 
 # Main guide
-- [[Introduction]]
-	- [[About this guide]]
+- [[Introduction]] 
 	- [[The power of reading]]
 	- [[About Japanese]]
 	- [[About kana]]
@@ -11,9 +10,9 @@
 - [[Chapter 1]]
 	- [[The two types of sentences]]
 	- [[Standalone verbs]]
+	- [[Subject particle が]]
 	- [[Noun basics]]
 	- [[Object particle を]]
-	- [[Subject particle が]]
 	- [[Standalone adjectives]]
 	- [[Adjective phrases]]
 	- [[Describing nouns with adjectives]]
@@ -36,7 +35,7 @@
 - [[から (because)]]
 - [[のだ]]
 - [[ので]]
-- [[だ]]
+- [[X is Y]]
 - [[Adjectival nouns]]
 - [[Politeness fundamentals]]
 - [[～ます]] 
@@ -54,6 +53,8 @@
 - [[たら]]
 - [[～ば]]
 - [[なら]]
+- [[Verb flavors - State vs Action]]
+- [[Verb flavors - Movement]]
 - [[But (が・けど・でも)]]
 - [[の (posessive)]]
 - [[こと (the experience of...)]]
@@ -100,3 +101,4 @@
 - [[Question words]]
 - [[Groups (たち・ら)]]
 - [[わけ]]
+- [[Likes and dislikes]]
