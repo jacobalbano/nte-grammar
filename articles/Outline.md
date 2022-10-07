@@ -1,8 +1,8 @@
 ### `Structure, order, contents of this outline are all up for discussion and subject to change!`
 
 # Main guide
-- [[Introduction]] 
-	- [[The power of reading]]
+- [[Introduction]]
+	- [[The Power of Reading]]
 	- [[About Japanese]]
 	- [[About kana]]
 	- [[About kanji]]
